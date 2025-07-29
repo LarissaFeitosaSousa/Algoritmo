@@ -56,8 +56,8 @@ if (imc < 18.5) {
   console.log("Classificação: Obesidade");
 }
 
-   10.
-let numero = parseInt(prompt("Digite um número positivo:"));
+  //10//
+ler numero = parseInt(prompt("Digite um número positivo:"));
 let i = 0;
 
 while (i <= numero) {
